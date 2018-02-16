@@ -10,6 +10,8 @@ namespace C_Sharp_Practice
     {
         static void Main(string[] args)
         {
+
         }
+
     }
 }
